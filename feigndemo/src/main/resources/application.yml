@@ -1,0 +1,16 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: feignDemo
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:11111/eureka/
+
+#打开断路器
+feign:
+  hystrix:
+    enabled : true
+
+
