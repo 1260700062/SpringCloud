@@ -6,8 +6,8 @@
         <option value="$PROJECT_DIR$/eurekademo/pom.xml" />
         <option value="$PROJECT_DIR$/eurekafirst/pom.xml" />
         <option value="$PROJECT_DIR$/feigndemo/pom.xml" />
-        <option value="$PROJECT_DIR$/Hystrixdemo/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix/pom.xml" />
       </list>
     </option>
   </component>
