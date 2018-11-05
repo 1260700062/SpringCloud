@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hystrixdemo/demo.iml" filepath="$PROJECT_DIR$/Hystrixdemo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekademo/eurekademo.iml" filepath="$PROJECT_DIR$/eurekademo/eurekademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekafirst/eurekafirst.iml" filepath="$PROJECT_DIR$/eurekafirst/eurekafirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feigndemo/feigndemo.iml" filepath="$PROJECT_DIR$/feigndemo/feigndemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
